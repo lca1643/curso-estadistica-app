@@ -38,17 +38,6 @@ st.info(
     Selecciona el capítulo o la herramienta que deseas explorar.
     """
 )
-
-# --- 4. Contenido Adicional (Opcional) ---
-st.subheader("Estructura del Curso")
-st.markdown(
-    """
-    - **Capítulo 2: Estadística con Gráficos**
-      - `Histograma`: Para analizar la distribución de una variable.
-      - `Box Plot`: Para comparar distribuciones entre grupos.
-      - `Dispersión`: Para explorar relaciones entre variables.
-    - **Capítulo 3: Medidas de Tendencia Central**
-      - `Media y Mediana`: Para calcular y visualizar las medidas centrales.
     
     ¡Y mucho más!
     """
